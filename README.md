@@ -1,4 +1,27 @@
-# The Real-World DevOps to Platform/MLOps Upskilling Guide: Navigate the Shift with Community-Tested Strategies
+<div align="center">
+
+# DevOps to Platform Engineering
+### A Community-Driven Guide
+
+[![Community Data](https://img.shields.io/badge/community_reports-90-blue)]()
+[![Data Points](https://img.shields.io/badge/data_points-30-green)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+</div>
+
+## Table of Contents
+
+- [About This Guide](#about-this-guide)
+- [Where You Are Now: Self-Assessment for the Transition](#where-you-are-now-selfassessment-for-the-transition)
+- [Phase 1: Foundations – Shifting Mindset & Core Principles (Week 1-2)](#phase-1-foundations--shifting-mindset--core-principles-week-12)
+- [Phase 2: Core Skills – Building Robust Systems (Week 3-4)](#phase-2-core-skills--building-robust-systems-week-34)
+- [Phase 3: Applied Projects – Building Real-World Platforms (Week 5-8)](#phase-3-applied-projects--building-realworld-platforms-week-58)
+- [Recommended Resources](#recommended-resources)
+- [Practice Exercises for Each Phase](#practice-exercises-for-each-phase)
+- [Contributing](#contributing)
+
+---
+
 
 ## About This Guide
 
