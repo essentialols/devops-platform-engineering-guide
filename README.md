@@ -274,23 +274,22 @@ Here's a curated list of resources that I found particularly useful for this tra
 4.  **Embrace AI for Augmentation:** Use AI tools for boilerplate generation and documentation, freeing up time for critical architectural decisions and debugging.
 5.  **HPC Knowledge is Gaining Ground:** Understanding high-performance computing aspects, especially around the Nvidia stack (RoCE, Infiniband), is increasingly relevant for advanced ML infrastructure.
 
-## Sources
+---
 
-[1] My experience developing and deploying infrastructure as code for multiple clients, focusing on common industry practices for IaC and CI/CD pipelines.
-[2] Reddit r/devops thread comment, 2 upvotes, not independently verified.
-[3] Sagrista, T. (2023). "The Platform Engineering Maturity Model". *tonisagrista.com*.
-[4] Reddit r/devops thread comment, 2 upvotes, not independently verified.
-[5] Backstage.io official documentation on Internal Developer Platforms. *backstage.io/docs/features/software-catalog/what-is-an-idp*.
-[6] Kubernetes Operator SDK. *sdk.operatorframework.io*.
-[7] Crossplane official documentation. *crossplane.io*.
-[8] Reddit r/devops thread community consensus, not independently verified.
-[9] Feature Store. *featurestore.org*.
-[10] MLflow official documentation. *mlflow.org*.
-[11] DVC official documentation. *dvc.org*.
-[12] Reddit r/devops thread comment, 10 upvotes, not independently verified.
-[13] Skelton, M., & Pais, M. (2019). *Team Topologies: Organizing Business and Technology Teams for Fast Flow*. IT Revolution.
-[14] Kleppmann, M. (2017). *Designing Data-Intensive Applications*. O'Reilly Media.
-[15] Newman, S. (2015). *Building Microservices*. O'Reilly Media.
-[16] Hightower, K., Burns, B., & Beda, J. (2017). *Kubernetes Up & Running: Dive into the Future of Infrastructure*. O'Reilly Media.
-[17] Lakshmanan, V., Robinson, S., & Munn, M. (2020). *Machine Learning Design Patterns*. O'Reilly Media.
-[18] Google Cloud Professional Machine Learning Engineer Certification. *cloud.google.com/certifications/machine-learning-engineer*.
+## Sources and Links
+
+**Primary source:** [How are you actually upskilling to survive the shift](https://reddit.com/r/devops/comments/1thv5r4/) (Reddit thread)
+
+**Official documentation:**
+
+- [Backstage.io (Internal Developer Platforms)](https://backstage.io/)
+- [Crossplane](https://crossplane.io/)
+- [Kubernetes Operator SDK](https://sdk.operatorframework.io/)
+- [MLflow](https://mlflow.org/)
+- [Team Topologies (book)](https://teamtopologies.com/)
+
+**Methodology:** Community comments were scraped and classified by type. Upvote counts are noted but do not constitute independent verification. All community claims are flagged as unverified.
+
+## License
+
+MIT
